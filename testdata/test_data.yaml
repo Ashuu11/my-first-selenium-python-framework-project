@@ -1,0 +1,12 @@
+---
+test1:
+  goingfrom: DEL
+  goingto: BBI
+  departdate: 24/02/2024
+  stops: 1 Stop
+test2:
+  goingfrom: BOM
+  goingto: CCU
+  departdate: 25/02/2024
+  stops: 2 Stop
+...
